@@ -3,7 +3,7 @@ This webpage provides information about Horiseon Social Solutions Services.
 
 ## Link of website
 
-http://127.0.0.1:3000/Develop/index.html
+http://127.0.0.1:3000/index.html
 
 ## Description
 
